@@ -1,17 +1,15 @@
 <div align="center">
     <img src="png/logo.png" width="100" alt="微信收款码"/>
 </div>
-
 <h1 align="center">
 Web RPA - 网页机器人流程自动化工具
 </h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/版本-1.0.0-blue.svg" alt="版本">
+  <img src="https://img.shields.io/badge/版本-1.0.2-blue.svg" alt="版本">
   <img src="https://img.shields.io/badge/协议-CC%20BY--NC--SA%204.0-green.svg" alt="协议">
   <img src="https://img.shields.io/badge/作者-青云制作__彭明航-orange.svg" alt="作者">
 </p>
-
-**一款功能强大的可视化网页自动化工具，通过拖拽模块的方式快速构建自动化工作流，无需编写代码即可实现网页数据采集、表单填写、自动化测试等任务。**
+**一款功能强大的可视化网页自动化工具，通过拖拽模块的方式快速构建自动化工作流，无需编写代码即可实现网页数据采集、表单填写、自动化测试等任务。（仓库中的源码不会再进行更新了，请直接在Releases中下载最新7z压缩包以获取最新源码）**
 
 
 
@@ -221,6 +219,11 @@ WebRPA/
   
 
 ## 📝 更新日志
+### v1.0.2 (2025-12-28)
+
+- 修复工作流画布中框选模块时会出现卡顿的问题
+- 在“工作流仓库”中增加了“身份ID”相关配置项（用于用户在不同浏览器之间迁移身份）
+
 
 ### v1.0.0 (2025-12-28)
 
