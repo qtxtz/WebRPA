@@ -5,10 +5,12 @@
 Web RPA - 网页机器人流程自动化工具
 </h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/版本-1.16.6-blue.svg" alt="版本">
+  <img src="https://img.shields.io/badge/版本-1.17.0-blue.svg" alt="版本">
   <img src="https://img.shields.io/badge/协议-CC%20BY--NC--SA%204.0-green.svg" alt="协议">
   <img src="https://img.shields.io/badge/作者-青云制作__彭明航-orange.svg" alt="作者">
 </p>
+
+
 
 
 
@@ -165,7 +167,7 @@ Web RPA - 网页机器人流程自动化工具
 
 ### 启动方式
 
-在Releases中下载最新版7z压缩包，之后解压出来，直接双击其中的 `双击启动WebRPA本地服务.bat` 即可快速启动本项目，脚本会自动启动前后端服务并自动运行客户端EXE：
+在Releases中下载最新版7z压缩包，之后解压出来，直接双击其中的 `双击启动WebRPA本地服务.bat` 即可快速启动本项目：
 
 - 后端服务：http://localhost:8000
 - 前端服务：http://localhost:5173
@@ -286,20 +288,21 @@ WebRPA/
 | 等待控制 | 2 |
 | 变量操作 | 5 |
 | 文本处理 | 8 |
-| 列表/字典 | 6 |
+| 列表/字典 | 7 |
 | 数据表格 | 8 |
 | 数据库 | 7 |
 | 流程控制 | 7 |
 | 网络请求 | 3 |
 | AI能力 | 2 |
 | 验证码 | 2 |
-| 消息提醒 | 7 |
-| 系统操作 | 16 |
+| QQ自动化 | 7 |
+| 消息提醒 | 8 |
+| 系统操作 | 17 |
 | 媒体处理 | 14 |
 | AI识别 | 2 |
 | 文件操作 | 11 |
 | 画布工具 | 2 |
-| **总计** | **120 个模块** |
+| **总计** | **130 个模块** |
 
 ---
 
@@ -349,4 +352,3 @@ WebRPA/
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="png/支付宝收款码.jpg" width="183" alt="支付宝收款码"/>
 </div>
-
